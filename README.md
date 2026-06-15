@@ -1,5 +1,7 @@
 ## About Me
 
+Hi! I'm Xinyi, a software engineer focused on distributed systems, backend infrastructure, and high-performance data pipelines. I enjoy building systems that are scalable, reliable, and production-ready.
+
 ## Skills
 
 Languages:
