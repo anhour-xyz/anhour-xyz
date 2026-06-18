@@ -1,8 +1,8 @@
-## About Me
+## ⚙️ About Me
 
 Hello! I'm Xinyi, a software engineer interested in **backend engineering**, **systems infrastructure**, **machine learning**, and **hardware-software integration**. I enjoy building reliable, production-ready solutions that bridge low-level systems with real-world applications.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 Languages:
 
@@ -50,4 +50,4 @@ Hardware & Software:
 ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
   
-## Projects
+## 📚 Projects
