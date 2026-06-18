@@ -2,7 +2,8 @@
 
 Hello! I'm Xinyi, a software engineer interested in **backend engineering**, **systems infrastructure**, **machine learning**, and **hardware-software integration**. I enjoy building reliable, production-ready solutions that bridge low-level systems with real-world applications.
 
-
+<br>
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -51,5 +52,8 @@ Hardware & Software:
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
-  
+
+<br>
+<br>
+
 ## 📚 Projects
