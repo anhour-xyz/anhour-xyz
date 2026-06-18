@@ -1,8 +1,8 @@
 ## About Me
 
-Hi! I'm Xinyi, a software engineer focused on distributed systems, backend infrastructure, and high-performance data pipelines. I enjoy building systems that are scalable, reliable, and production-ready.
+Hello! I'm Xinyi, a software engineer interested in **backend engineering**, **systems infrastructure**, **machine learning**, and **hardware-software integration**. I enjoy building reliable, production-ready solutions that bridge low-level systems with real-world applications.
 
-## Skills
+## Tech Stack
 
 Languages:
 
@@ -32,8 +32,8 @@ Databases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ML/DL:
 
