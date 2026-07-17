@@ -55,3 +55,5 @@ Hardware & Software:
 <br>
 
 ## 📚 Projects
+
+[1. Distributed KV-store with Raft Consensus](https://github.com/anhour-xyz/distributed-kv-store-with-raft-consensus)
