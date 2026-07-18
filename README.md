@@ -58,3 +58,5 @@ Hardware & Software:
 ## 📚 Projects
 
 [1. Distributed KV-store with Raft Consensus](https://github.com/anhour-xyz/distributed-kv-store-with-raft-consensus)
+
+[2. Microservice-Based Ride Dispatch System](https://github.com/anhour-xyz/microservice-ride-dispatch-system)
