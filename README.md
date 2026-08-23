@@ -56,9 +56,3 @@ Hardware & Software:
 ![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
 <br>
-
-## 📚 Projects
-
-[1. Distributed KV-store with Raft Consensus](https://github.com/anhour-xyz/distributed-kv-store-with-raft-consensus)
-
-[2. Microservice-Based Ride Dispatch System](https://github.com/anhour-xyz/microservice-ride-dispatch-system)
